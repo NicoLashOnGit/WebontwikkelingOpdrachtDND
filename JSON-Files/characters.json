@@ -1,0 +1,38 @@
+[
+  {
+    "id": "GUILD-001",
+    "name": "Order of the Silver Flame",
+    "guildMaster": "High Inquisitor Valen Brightshield",
+    "guildEmblemUrl": "https://example.com/images/guilds/silver-flame.png",
+    "foundedYear": 1023,
+    "motto": "Purity Through Fire",
+    "isReligious": true
+  },
+  {
+    "id": "GUILD-002",
+    "name": "Shadowveil Syndicate",
+    "guildMaster": "Mistress Nyx",
+    "guildEmblemUrl": "https://example.com/images/guilds/shadowveil.png",
+    "foundedYear": 1187,
+    "motto": "Seen by None",
+    "isReligious": false
+  },
+  {
+    "id": "GUILD-003",
+    "name": "Circle of the Emerald Grove",
+    "guildMaster": "Archdruid Faelar",
+    "guildEmblemUrl": "https://example.com/images/guilds/emerald-grove.png",
+    "foundedYear": 945,
+    "motto": "Nature Endures",
+    "isReligious": false
+  },
+  {
+    "id": "GUILD-004",
+    "name": "Arcane Conclave",
+    "guildMaster": "Archmage Selwyn the Blue",
+    "guildEmblemUrl": "https://example.com/images/guilds/arcane-conclave.png",
+    "foundedYear": 1102,
+    "motto": "Knowledge Is Power",
+    "isReligious": false
+  }
+]
