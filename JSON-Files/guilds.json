@@ -3,7 +3,7 @@
     "id": "GUILD-001",
     "name": "Order of the Silver Flame",
     "guildMaster": "High Inquisitor Valen Brightshield",
-    "guildEmblemUrl": "https://example.com/images/guilds/silver-flame.png",
+    "guildEmblemUrl": "assets/images/silver flame emblem.png",
     "foundedYear": 1023,
     "motto": "Purity Through Fire",
     "isReligious": true
